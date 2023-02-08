@@ -1,0 +1,2 @@
+[console_scripts]
+run = src.main:do_something

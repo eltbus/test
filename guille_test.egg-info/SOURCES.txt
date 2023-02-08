@@ -1,0 +1,9 @@
+setup.py
+guille_test.egg-info/PKG-INFO
+guille_test.egg-info/SOURCES.txt
+guille_test.egg-info/dependency_links.txt
+guille_test.egg-info/entry_points.txt
+guille_test.egg-info/top_level.txt
+src/__init__.py
+src/logic.py
+src/main.py
