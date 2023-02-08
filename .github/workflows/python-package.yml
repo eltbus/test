@@ -11,6 +11,7 @@ jobs:
     name: Build and publish Python distribution
     runs-on: ubuntu-18.04
     steps:
+      - name: Build package
         run: python setup.py sdist
         - name: Publish distribution to Test PyPI
         uses: pypa/gh-action-pypi-publish@main
